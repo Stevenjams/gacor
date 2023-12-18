@@ -1,2 +1,0 @@
-# gacor
-Just FUN
